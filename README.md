@@ -1,0 +1,1 @@
+It is an exercise in applying concepts of stability in numerical methods. It is checked whether certain stability conditions are met for complex conjugate eigenvalues with specified parameters. Next, program is written to draw curves for spectral radius, period elongations, and amplitude decays for two different parameter scenarios.
